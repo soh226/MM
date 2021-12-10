@@ -1,0 +1,45 @@
+body{
+    font-family: 'Yomogi', cursive;
+    background: aquamarine;
+}
+.header_div{
+    background:aqua;
+    color:blue;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background:aquamarine;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid palevioletred;
+}
+.main_div label{
+    background: aquamarine;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px lightgreen;
+}
+.footer_div{
+    margin-bottom:50px;
+}
+.footer_div h4{
+    background:darkorchid;
+    border-radius:25px;
+    padding:5px;
+    box-shadow: 5px 5px 18px purple;
+}
+.footer_div img{
+    width:70px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:seagreen;
+    bottom:0;
+    width:100%;
+    background-color:yellowgreen;
+    line-height:3;
+    text-align:center;
+}
